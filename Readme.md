@@ -8,4 +8,10 @@
 
 `pip show crewai`
 
+## Set Environment
+
 `set GROQ_API_KEY=your key`
+
+## Run App
+
+`python app\main.py`
