@@ -11,7 +11,9 @@
 ## Set Environment
 
 `set GROQ_API_KEY=your key`
+`set OPENAI_API_KEY=your key`
 
 ## Run App
 
 `python app\main.py`
+`python app\main_web.py`
