@@ -8,6 +8,8 @@
 
 `pip show crewai`
 
+`pip install 'crewai[tools]'`
+
 ## Set Environment
 
 `set GROQ_API_KEY=your key`
